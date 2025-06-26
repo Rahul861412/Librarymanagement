@@ -64,11 +64,15 @@ Edit
 3. Exit
 Select role: 1
 
+
 --- Admin Menu ---
 1. Add Book
 2. Add User
 3. View All Books
+
 ...
+
+
 📌 Notes
 This is a basic demo project — no file/database storage is implemented.
 
