@@ -1,4 +1,3 @@
-package vee.java;
 import java.util.*;
 
 class Book {
